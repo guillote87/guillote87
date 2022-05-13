@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillermo</h1>
 <h3 align="center">JavaScript Web Developer from Argentina</h3>
+ ![me](https://user-images.githubusercontent.com/85245021/168402062-2dfea96f-016b-4c87-a61f-473fb6f0dc60.jpg)
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guillote87" alt="guillote87" /></a> </p>
 
