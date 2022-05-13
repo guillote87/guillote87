@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Guillote87's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillote87&
+![Guillote87's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillote87&count_private=true)
 <!--
 **guillote87/guillote87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
